@@ -22,6 +22,6 @@ Project aims to apply sentiment analysis techniques to customer reviews of Amazo
 ![aa 1](https://github.com/Abhi2850/Amazone-Reviews-Sentimental-Analysis/assets/91343400/cce2b7ae-b0fe-4ce3-b036-095ec6814ce4)
 
 
-#Output
+# Output
 
 Accuracy : 0.9378172588832487
