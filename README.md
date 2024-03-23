@@ -1,4 +1,4 @@
-# Amazone-Alexa-Reviews-Sentimental-Analysis
+# Amazon-Alexa-Reviews-Sentimental-Analysis
 
 ![1_pCvAG8BFYn775Kug1-HdUg](https://github.com/Abhi2850/Amazone-Reviews-Sentimental-Analysis/assets/91343400/04163eeb-d6ac-42fa-8626-9af52e0ab51e)
 
